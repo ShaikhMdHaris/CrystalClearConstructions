@@ -95,7 +95,7 @@ body{
 
 .home .hero .text1{
   font-size: 5rem;
-  width:45rem;
+  width: 90rem;
   background:#fff;
   padding:1rem;
   text-align: center;
@@ -104,7 +104,7 @@ body{
 
 .home .hero .text2{
   font-size: 3rem;
-  width:35rem;
+  width: 90rem;
   background: linear-gradient(to right, #ee9ca7, #ffdde1);
   padding:1rem;
   text-align: center;
