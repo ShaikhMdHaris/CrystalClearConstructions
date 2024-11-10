@@ -223,7 +223,7 @@ body{
 
 .project{
   min-height:100vh;
-  background:linear-gradient(to bottom, #004e92, #000428, #004e92);
+  background:linear-gradient(to bottom, #badfff, #000428, #badfff);
 }
 
 .project .heading{
@@ -237,7 +237,7 @@ body{
 }
 
 .project .box-container .box{
-  height:20rem;
+  height:40rem;
   width:30rem;
   border-radius: .5rem;
   margin:2rem;
