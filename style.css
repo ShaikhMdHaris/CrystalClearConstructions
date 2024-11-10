@@ -226,9 +226,9 @@ body{
   background:linear-gradient(to bottom, #badfff, #000428, #badfff);
 }
 
-.project .heading{
+/* .project .heading{
   color:#fff;
-}
+} */
 
 .project .box-container{
   display: flex;
@@ -578,7 +578,7 @@ body{
 
   .header nav ul{
     height: 100%;
-    width:33rem;
+    width: 46rem;
     background:#fff;
     flex-flow: column;
     justify-content: center;
@@ -609,7 +609,7 @@ body{
 
 }
 
-@media (max-width:400px){
+@media (max-width:500px){
   .home .hero .text1{
     font-size: 3.5rem;
     width: 33rem;
@@ -617,5 +617,16 @@ body{
   .home .hero .text2{
     font-size: 2.5rem;
     width: 30rem;
+  }
+}
+
+@media (max-width:400px){
+  .home .hero .text1{
+    font-size: 3.5rem;
+    width: 33rem;
+  }
+  .home .hero .text2{
+    font-size: 2.5rem;
+    width: 33rem;
   }
 }
